@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Samira\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8,4): error C2065: 'retun': undeclared identifier
+C:\Users\Samira\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8,10): error C2146: syntax error: missing ';' before identifier 'n'
